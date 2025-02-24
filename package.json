@@ -1,10 +1,12 @@
 {
+  "type": "module",
   "name": "kafka-game-hub",
   "version": "1.0.0",
   "description": "a data aggregator and processor for game data of all kinds",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/sample.js"
   },
   "repository": {
     "type": "git",
