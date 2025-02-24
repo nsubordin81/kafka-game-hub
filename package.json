@@ -1,0 +1,27 @@
+{
+  "name": "kafka-game-hub",
+  "version": "1.0.0",
+  "description": "a data aggregator and processor for game data of all kinds",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsubordin81/kafka-game-hub.git"
+  },
+  "keywords": [
+    "kafka",
+    "streaming",
+    "game",
+    "videogame",
+    "hub",
+    "data"
+  ],
+  "author": "Taylor Bird",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nsubordin81/kafka-game-hub/issues"
+  },
+  "homepage": "https://github.com/nsubordin81/kafka-game-hub#readme"
+}
